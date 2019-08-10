@@ -8,7 +8,7 @@
 * [Link](https://github.com/austin-wood-401-advanced-javascript/lab-16/pull/4)
 
 #### Compose a UML or Process/Data Flow Diagram for every application
- ![UML Reference](hhttps://github.com/austin-wood-401-advanced-javascript/lab-16/blob/master/src/assets/IMG_1155.JPG)
+ ![UML Reference](https://github.com/austin-wood-401-advanced-javascript/lab-16/blob/master/src/assets/IMG_1155.JPG)
 
 
 #### JSDoc
